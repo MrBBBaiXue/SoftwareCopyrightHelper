@@ -1,0 +1,2 @@
+# SoftwareCopyrightHelper
+跨平台的中国软件著作权登记申请源代码处理工具。
